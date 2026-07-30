@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /settings
+
+Sitemap: https://toolkit-pro-nine.vercel.app/sitemap.xml
